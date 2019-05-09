@@ -13,6 +13,8 @@ The theme can be added by adding it as custom CSS in your Settings for ProtonMai
 
 ## Gruvbox for DuckDuckGo 
 
+![alt text](https://github.com/dotMavriQ/GruvboxEverything/blob/master/gruvboxdduck.png?raw=true "Gruvbox Theme for DuckDuckGo Screenshot")
+
 ##### Bookmarklet URL:
 https://duckduckgo.com/?kae=d&kah=se-sv&kl=wt-wt&k5=2&kw=n&kay=b&kp=-2&kax=v172-4&kt=FantasqueSansMono+Nerd&ka=FantasqueSansMono+Nerd&k7=282828&kj=3c3836&k9=456888&kaa=fbf1c7&k8=928374&kx=8ec07c
 
