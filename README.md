@@ -30,3 +30,9 @@ https://duckduckgo.com/?key=fe756f46da3ad620d10e2bae86ccc28b7e69af7376cf355cb339
 ```
 ae=d; ah=se-sv; l=wt-wt; 5=2; w=n; ay=b; p=-2; objectKey=fe756f46da3ad620d10e2bae86ccc28b7e69af7376cf355cb339db1d246041547a9967804d065f703f0bf6e9b0d51b088858b3997f38b3807386f0860c7f4440; t=FantasqueSansMono%20Nerd; a=FantasqueSansMono%20Nerd; 7=282828; j=3c3836; 9=456888; aa=fbf1c7; 8=928374; x=8ec07c; av=1; 1=-1; aj=m; am=osm; ak=-1; ax=-1; aq=-1; ap=-1; au=-1; ba=-1; ao=-1
 ``` 
+
+--- 
+
+##AiR Mac Terminal with Gruvbox colors
+
+Just a regular gruvbox colorscheme for your OSX terminal.
