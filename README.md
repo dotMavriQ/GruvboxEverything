@@ -33,6 +33,6 @@ ae=d; ah=se-sv; l=wt-wt; 5=2; w=n; ay=b; p=-2; objectKey=fe756f46da3ad620d10e2ba
 
 --- 
 
-##AiR Mac Terminal with Gruvbox colors
+## AiR Mac Terminal with Gruvbox colors
 
 Just a regular gruvbox colorscheme for your OSX terminal.
