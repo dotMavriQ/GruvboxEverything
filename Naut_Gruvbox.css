@@ -440,12 +440,12 @@ body:not(.loggedin) #header-bottom-right {
     padding: 0;
     text-transform: uppercase;
     font: 400 14px/32px Iconsolata, Roboto, Lato;
-    color: rgba(255, 255, 255, 0.7);
+    color: #83a598;
     display: inline-block
 }
 
 #header .tabmenu li a:hover {
-    color: #3C3836
+    color: 83a598
 }
 
 #header .tabmenu li:first-of-type a {
@@ -2655,7 +2655,7 @@ div.titlebox span.number:after {
 .res-nightmode #progressIndicator,
 .res-nightmode body .content,
 .res-nightmode .voteWeight {
-    background-color: transparent!important
+    background-color: #83A598!important
 }
 
 .res-nightmode #header .tabmenu:before {
@@ -3629,7 +3629,7 @@ body #newlink-with-image-upload .file-upload-button {
 
 .tabmenu li a {
     background: none;
-    color: #292f34;
+    color: 83a598;
     font-size: 14px
 }
 
