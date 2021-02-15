@@ -16,10 +16,10 @@ The theme can be added by adding it as custom CSS in your Settings for ProtonMai
 ![alt text](https://github.com/dotMavriQ/GruvboxEverything/blob/master/gruvboxdduck.png?raw=true "Gruvbox Theme for DuckDuckGo Screenshot")
 
 ##### Bookmarklet URL:
-https://duckduckgo.com/?key=fe756f46da3ad620d10e2bae86ccc28b7e69af7376cf355cb339db1d246041547a9967804d065f703f0bf6e9b0d51b088858b3997f38b3807386f0860c7f4440
+https://duckduckgo.com/?kae=-1&kaq=-1&kax=v250-6&kp=-2&kw=w&kt=Fantasque+Sans+Mono&k7=282828&kj=3c3836&ka=Fantasque+Sans+Mono&k9=458588&kaa=b16286&k8=7c6f64&kx=b8bb26&k21=fbf1c7&k18=1&kbc=1
 
 ##### Cloud Save Bookmarklet URL:
-https://duckduckgo.com/?key=fe756f46da3ad620d10e2bae86ccc28b7e69af7376cf355cb339db1d246041547a9967804d065f703f0bf6e9b0d51b088858b3997f38b3807386f0860c7f4440
+https://duckduckgo.com/?kae=-1&kaq=-1&kax=v250-6&kp=-2&kw=w&kt=Fantasque+Sans+Mono&k7=282828&kj=3c3836&ka=Fantasque+Sans+Mono&k9=458588&kaa=b16286&k8=7c6f64&kx=b8bb26&k21=fbf1c7&k18=1&kbc=1
 
 ##### Settings in json:
 ```
